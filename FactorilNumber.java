@@ -20,6 +20,6 @@ public class FactorilNumber {
         printFactorialNumber(n);
 
         sc.close();
-    }
+    } 
     
 }
